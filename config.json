@@ -1,0 +1,9 @@
+{
+    "idle_timeout": 5,
+    "check_interval": 2,
+    "auto_start": false,
+    "system_tray": true,
+    "db_path": "tracking_data.db",
+    "log_path": "app_logs.txt",
+    "show_notifications": true
+}

@@ -1,0 +1,6 @@
+2026-06-17 12:12:47,442 - TrackingApp - WARNING - pynput not available - activity tracking disabled
+2026-06-17 12:12:47,444 - TrackingApp - INFO - Initializing tracking application
+2026-06-17 12:13:09,786 - TrackingApp - WARNING - pynput not available - activity tracking disabled
+2026-06-17 12:13:09,789 - TrackingApp - INFO - Initializing tracking application
+2026-06-17 12:13:38,834 - TrackingApp - WARNING - pynput not available - activity tracking disabled
+2026-06-17 12:13:38,835 - TrackingApp - INFO - Initializing tracking application

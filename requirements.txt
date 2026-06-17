@@ -1,0 +1,5 @@
+pynput>=1.7.6
+pywin32>=305
+psutil>=5.9.0
+pystray>=0.19.4
+Pillow>=9.0.0
